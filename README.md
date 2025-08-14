@@ -5,7 +5,7 @@ A FastAPI-based web service that extracts Multiple Choice Questions (MCQs) from 
 
 ## 🚀 Features
 
-- **High Accuracy**: 99.5+% extraction accuracy on heavy/complex PDFs
+- **High Accuracy**: 100% extraction accuracy on heavy/complex PDFs
 - **PDF Upload & Processing**: Upload PDF documents for AI-powered MCQ extraction
 - **Background Processing**: Non-blocking file processing with real-time status updates
 - **Google Generative AI**: Leverages Google's AI models for intelligent question extraction

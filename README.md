@@ -40,8 +40,8 @@ A FastAPI-based web service that extracts Multiple Choice Questions (MCQs) from 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/trogon-php/Upgrade_Psc_MCQ_Extractor.git
-cd Upgrade_Psc_MCQ_Extractor
+git clone https://github.com/trogon-php/yEdu_Mcq_Extractor.git
+cd yEdu_Mcq_Extractor
 ```
 
 2. **Install dependencies**
@@ -99,7 +99,7 @@ API_KEY=your_google_generative_ai_api_key
 ### Directory Structure
 
 ```
-Upgrade_Psc_MCQ_Extractor/
+yEdu_Mcq_Extractor/
 ├── main.py                 # FastAPI application
 ├── .env                    # Environment variables
 ├── requirements.txt        # Python dependencies

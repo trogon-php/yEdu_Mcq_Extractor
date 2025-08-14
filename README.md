@@ -1,4 +1,4 @@
-# Upgrade_Psc_MCQ_Extractor
+# Y-edu_MCQ_Extractor
 🤖 AI-powered MCQ Extractor API - Upload PDFs, extract Multiple Choice Questions using Google Generative AI, get structured JSON output with FastAPI backend
 
 A FastAPI-based web service that extracts Multiple Choice Questions (MCQs) from PDF documents using Google's Generative AI with **99.5+% accuracy** on heavy PDFs and 100% accuracy on small PDFs. Upload PDF files and get structured JSON output with extracted questions through an intuitive web interface.

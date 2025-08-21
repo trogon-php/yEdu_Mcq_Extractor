@@ -5,3 +5,7 @@ google-generativeai
 uuid
 uvicorn
 python-multipart
+python-docx
+reportlab
+dotenv
+

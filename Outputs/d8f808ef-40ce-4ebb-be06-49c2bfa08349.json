@@ -1,0 +1,827 @@
+[
+  {
+    "SI.No": 1,
+    "question": "<p>What is the lapse rate of the International Standard Atmosphere (ISA)?</p>",
+    "options": [
+      "2°C/1000 ft",
+      "1.98°C/1000 ft",
+      "3°C/1000 ft"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 2,
+    "question": "<p>In the troposphere, the temperature:</p>",
+    "options": [
+      "Increases with altitude",
+      "Decreases with altitude",
+      "Remains constant"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 3,
+    "question": "<p>The tropopause is:</p>",
+    "options": [
+      "The warmest layer",
+      "The boundary between troposphere and stratosphere",
+      "Found only at the equator"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 4,
+    "question": "<p>A METAR report is issued:</p>",
+    "options": [
+      "Every 6 hours",
+      "Hourly",
+      "Every 3 hours"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 5,
+    "question": "<p>What is the unit of atmospheric pressure?</p>",
+    "options": [
+      "mmHg",
+      "hPa or mb",
+      "psi"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 6,
+    "question": "<p>What does TAF stand for?</p>",
+    "options": [
+      "Temporary Air Forecast",
+      "Terminal Area Forecast",
+      "Terminal Aerodrome Forecast"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 7,
+    "question": "<p>Relative humidity is:</p>",
+    "options": [
+      "Always 100% in clouds",
+      "Ratio of actual to saturation vapor pressure",
+      "Temperature of dewpoint"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 8,
+    "question": "<p>The Coriolis force acts:</p>",
+    "options": [
+      "Toward the low pressure",
+      "At right angles to motion",
+      "Opposite to wind"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 9,
+    "question": "<p>A warm front is usually associated with:</p>",
+    "options": [
+      "Showers and squalls",
+      "Continuous steady rain",
+      "Thunderstorms"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 10,
+    "question": "<p>Which cloud type is most associated with thunderstorms?</p>",
+    "options": [
+      "Nimbostratus",
+      "Cirrus",
+      "Cumulonimbus"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 11,
+    "question": "<p>The instrument used to measure wind direction is:</p>",
+    "options": [
+      "Hygrometer",
+      "Barograph",
+      "Wind vane"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 12,
+    "question": "<p>What causes sea breezes?</p>",
+    "options": [
+      "Heating of the sea",
+      "Pressure drop at night",
+      "Differential heating of land and sea"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 13,
+    "question": "<p>The height of the tropopause over the equator is:</p>",
+    "options": [
+      "8 km",
+      "11 km",
+      "16–18 km"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 14,
+    "question": "<p>Mountain waves are caused by:</p>",
+    "options": [
+      "High pressure over mountains",
+      "Stable air and strong wind over mountain",
+      "Unstable lapse rate"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 15,
+    "question": "<p>Inversion is a condition where:</p>",
+    "options": [
+      "Temperature decreases with height",
+      "Temperature increases with height",
+      "No temperature change"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 16,
+    "question": "<p>Wind shear is most hazardous:</p>",
+    "options": [
+      "At high altitudes",
+      "In clear air",
+      "During take-off and landing"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 17,
+    "question": "<p>An isobar represents:</p>",
+    "options": [
+      "Line of equal rainfall",
+      "Line of equal pressure",
+      "Line of equal temperature"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 18,
+    "question": "<p>Dewpoint is:</p>",
+    "options": [
+      "A measure of temperature change",
+      "The temperature at which condensation starts",
+      "Cloud base"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 19,
+    "question": "<p>A squall line is:</p>",
+    "options": [
+      "A band of clear air",
+      "Line of steady rain",
+      "Line of active thunderstorms ahead of a cold front"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 20,
+    "question": "<p>Visibility in fog is:</p>",
+    "options": [
+      "More than 5 km",
+      "Less than 1 km",
+      "Between 1 to 5 km"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 21,
+    "question": "<p>Which layer contains most of the weather phenomena?</p>",
+    "options": [
+      "Stratosphere",
+      "Troposphere",
+      "Mesosphere"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 22,
+    "question": "<p>Dew forms when:</p>",
+    "options": [
+      "Temperature rises",
+      "Air is heated",
+      "Air cools to dewpoint"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 23,
+    "question": "<p>A cold front is typically followed by:</p>",
+    "options": [
+      "Warm humid air",
+      "Calm clear conditions",
+      "Cold, dry air"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 24,
+    "question": "<p>What is the cause of surface winds?</p>",
+    "options": [
+      "Pressure gradient force",
+      "Friction alone",
+      "Coriolis force alone"
+    ],
+    "correct_answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 25,
+    "question": "<p>The ISA sea-level temperature is:</p>",
+    "options": [
+      "20°C",
+      "10°C",
+      "15°C"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 26,
+    "question": "<p>The type of precipitation from nimbostratus clouds is:</p>",
+    "options": [
+      "Drizzle",
+      "Continuous rain",
+      "Showers"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 27,
+    "question": "<p>How does pressure change with altitude in the ISA?</p>",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Constant"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 28,
+    "question": "<p>Katabatic winds are:</p>",
+    "options": [
+      "Downhill cold winds at night",
+      "Valley winds in the day",
+      "Warm air rising"
+    ],
+    "correct_answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 29,
+    "question": "<p>What is the cloud base if the temperature is 25°C and dew point is 20°C?</p>",
+    "options": [
+      "1000 ft",
+      "2000 ft",
+      "1500 ft"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 30,
+    "question": "<p>An altimeter set to 1013.25 hPa reads:</p>",
+    "options": [
+      "QFE",
+      "QNH",
+      "Flight level"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 31,
+    "question": "<p>Which cloud indicates the start of a warm front?</p>",
+    "options": [
+      "Cumulonimbus",
+      "Cirrostratus",
+      "Stratocumulus"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 32,
+    "question": "<p>When is fog most likely to form?</p>",
+    "options": [
+      "Afternoon",
+      "Night with clear skies and calm winds",
+      "Midday with high humidity"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 33,
+    "question": "<p>Clear Air Turbulence (CAT) is mostly found:</p>",
+    "options": [
+      "In thunderstorms",
+      "At low altitudes",
+      "Near jet streams"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 34,
+    "question": "<p>What does “TEMPO” mean in TAF?</p>",
+    "options": [
+      "Permanent change",
+      "Temporary fluctuation",
+      "Temperature observation"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 35,
+    "question": "<p>Wind veer with altitude means:</p>",
+    "options": [
+      "Wind turns left with height",
+      "Wind speed decreases",
+      "Wind turns clockwise"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 36,
+    "question": "<p>Cloud formed by convection is:</p>",
+    "options": [
+      "Cumulus",
+      "Cirrus",
+      "Stratus"
+    ],
+    "correct_answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 37,
+    "question": "<p>Which cloud can give hail?</p>",
+    "options": [
+      "Nimbostratus",
+      "Cumulonimbus",
+      "Altostratus"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 38,
+    "question": "<p>Radiation fog forms best when:</p>",
+    "options": [
+      "Over water",
+      "Sky is overcast",
+      "Ground is cool, sky is clear, air is moist"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 39,
+    "question": "<p>Jet streams occur near the:</p>",
+    "options": [
+      "Surface",
+      "Polar front at tropopause",
+      "Equator at 500 hPa"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 40,
+    "question": "<p>The typical speed of a jet stream is:</p>",
+    "options": [
+      "30–50 kt",
+      "60–80 kt",
+      "100-200 kt"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 41,
+    "question": "<p>What is the standard sea level pressure in the ISA?</p>",
+    "options": [
+      "1000 hPa",
+      "1013.25 hPa",
+      "980 hPa"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 42,
+    "question": "<p>The line connecting points of equal temperature is called:</p>",
+    "options": [
+      "Isobar",
+      "Isohume",
+      "Isotherm"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 43,
+    "question": "<p>The visibility in METAR is given in:</p>",
+    "options": [
+      "Feet",
+      "Meters",
+      "Nautical miles"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 44,
+    "question": "<p>Altostratus cloud is found at:</p>",
+    "options": [
+      "High level",
+      "Low level",
+      "Mid level"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 45,
+    "question": "<p>What causes turbulence near mountains?</p>",
+    "options": [
+      "Calm winds",
+      "Stable air with strong wind",
+      "Unstable moist air"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 46,
+    "question": "<p>The formation of CB clouds requires:</p>",
+    "options": [
+      "Light wind",
+      "Low pressure",
+      "Moisture, instability, and lift"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 47,
+    "question": "<p>What is the typical vertical extent of a cumulonimbus cloud?</p>",
+    "options": [
+      "2000 ft",
+      "From low levels to tropopause",
+      "From stratosphere downward"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 48,
+    "question": "<p>SIGMET is issued for:</p>",
+    "options": [
+      "Daily temperature updates",
+      "En route significant weather",
+      "Aerodrome visibility"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 49,
+    "question": "<p>Wind backing in the southern hemisphere means wind turns:</p>",
+    "options": [
+      "Clockwise",
+      "Anticlockwise",
+      "Random"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 50,
+    "question": "<p>When temperature and dewpoint are close, relative humidity is:</p>",
+    "options": [
+      "Low",
+      "Moderate",
+      "High"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 51,
+    "question": "<p>A temperature inversion may cause:</p>",
+    "options": [
+      "Good visibility",
+      "Wind shear",
+      "Thunderstorms"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 52,
+    "question": "<p>How is freezing level defined?</p>",
+    "options": [
+      "Level where temp is 10°C",
+      "Level where pressure is 1013 hPa",
+      "Altitude where temperature is 0°C"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 53,
+    "question": "<p>What is the difference between QNH and QFE?</p>",
+    "options": [
+      "QNH is sea level pressure; QFE is station pressure",
+      "Both are same",
+      "QFE is higher"
+    ],
+    "correct_answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 54,
+    "question": "<p>CB clouds are associated with:</p>",
+    "options": [
+      "Steady rain",
+      "Snowfall",
+      "Thunderstorms and turbulence"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 55,
+    "question": "<p>An occluded front occurs when:</p>",
+    "options": [
+      "Warm air is lifted by cold air",
+      "Cold front meets warm front",
+      "High meets low pressure"
+    ],
+    "correct_answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 56,
+    "question": "<p>What causes clear ice?</p>",
+    "options": [
+      "Slow freezing large droplets",
+      "Fast freezing fine droplets",
+      "Freezing fog"
+    ],
+    "correct_answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 57,
+    "question": "<p>The speed of a front is influenced by:</p>",
+    "options": [
+      "Wind aloft",
+      "Surface friction",
+      "Upper wind direction"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 58,
+    "question": "<p>METAR code “CAVOK” means:</p>",
+    "options": [
+      "Cloudy with visibility over 5 km",
+      "Visibility >10 km, no significant weather",
+      "Ceilings and visibility okay"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 59,
+    "question": "<p>What is an anabatic wind?</p>",
+    "options": [
+      "Downslope wind at night",
+      "Upslope wind during day",
+      "Sea breeze"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 60,
+    "question": "<p>What kind of front has weather of both cold and warm fronts?</p>",
+    "options": [
+      "Occluded",
+      "Stationary",
+      "Warm"
+    ],
+    "correct_answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 61,
+    "question": "<p>What type of precipitation is associated with towering cumulus?</p>",
+    "options": [
+      "Hail",
+      "Snow",
+      "Showers"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 62,
+    "question": "<p>The air mass originating over the Arabian Sea in summer is:</p>",
+    "options": [
+      "Continental polar",
+      "Maritime tropical",
+      "Continental tropical"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 63,
+    "question": "<p>TSRA mentioned in METAR indicates:</p>",
+    "options": [
+      "Thunderstorm and rain",
+      "Rain only",
+      "Light turbulence"
+    ],
+    "correct_answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 64,
+    "question": "<p>Altimeter reading increases when:</p>",
+    "options": [
+      "Pressure decreases",
+      "Pressure increases",
+      "Temperature rises"
+    ],
+    "correct_answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 65,
+    "question": "<p>The temperature change in a saturated parcel is called:</p>",
+    "options": [
+      "Environmental lapse rate",
+      "Dry adiabatic lapse rate",
+      "Saturated adiabatic lapse rate"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 66,
+    "question": "<p>The Indian monsoon is primarily driven by:</p>",
+    "options": [
+      "Westerlies",
+      "Pressure differences between land and sea",
+      "Trade winds"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 67,
+    "question": "<p>What does “BECMG” mean in a TAF?</p>",
+    "options": [
+      "Becoming",
+      "Beginning",
+      "Breaking"
+    ],
+    "correct_answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 68,
+    "question": "<p>The primary hazard in CB clouds is:</p>",
+    "options": [
+      "Icing only",
+      "Severe turbulence and wind shear",
+      "Dust"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 69,
+    "question": "<p>Which cloud has the most vertical development?</p>",
+    "options": [
+      "Altostratus",
+      "Cirrostratus",
+      "Cumulonimbus"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 70,
+    "question": "<p>When flying from high to low pressure without resetting altimeter:</p>",
+    "options": [
+      "You fly higher",
+      "You fly lower",
+      "No effect"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 71,
+    "question": "<p>What is the effect of friction on surface wind?</p>",
+    "options": [
+      "Increases speed",
+      "Causes backing",
+      "Reduces speed and changes direction"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 72,
+    "question": "<p>An occluded front forms when:</p>",
+    "options": [
+      "Warm air overtakes cold air",
+      "Cold front catches warm front",
+      "Low pressure merges with high pressure"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 73,
+    "question": "<p>What is a squall?</p>",
+    "options": [
+      "Gradual wind increase",
+      "Sudden increase in wind speed lasting minutes",
+      "Gusty wind for few seconds"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 74,
+    "question": "<p>The Indian summer monsoon hits the southwest coast around:</p>",
+    "options": [
+      "January",
+      "March",
+      "June"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 75,
+    "question": "<p>What does “NSC” mean in METAR?</p>",
+    "options": [
+      "No special clouds",
+      "No significant change",
+      "No significant clouds"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  }
+]

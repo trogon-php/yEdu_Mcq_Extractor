@@ -1,0 +1,302 @@
+[
+  {
+    "SI.No": 1,
+    "question": "<p>Which among the following doesn't come under the general classification of schools:</p>",
+    "options": [
+      "Schools for gen. education",
+      "Schools for spl. Education",
+      "School for defective children",
+      "Schools for the education of particular categories of students"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 2,
+    "question": "<p>One of the following will not come under the classification of schools mentioned in K.E.R. Quote it.</p>",
+    "options": [
+      "Schools for General Education",
+      "Schools for Special Education",
+      "Schools for Education of particular category of students",
+      "Industrial Training Institutes"
+    ],
+    "correct_answer": "D",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 3,
+    "question": "<p>The school in the state shall be classified into</p>",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correct_answer": "D",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 4,
+    "question": "<p>Schools for General Education shall be two grades. They are</p>",
+    "options": [
+      "Primary and Secondary",
+      "General Education and Vocational Education",
+      "General Education and Special Education",
+      "General Education and Schools for particular categories of students"
+    ],
+    "correct_answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 5,
+    "question": "<p>The first seven standards is Std I to Std VII shall be collectively known as the:</p>",
+    "options": [
+      "Primary Grade",
+      "Upper Primary Grade",
+      "Lower Primary Grade",
+      "Upper & Lower Primary Grade"
+    ],
+    "correct_answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 6,
+    "question": "<p>Fine Arts Schools come under schools for:</p>",
+    "options": [
+      "Primary Education",
+      "Special Education",
+      "Secondary Education",
+      "Secondary Grade"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 7,
+    "question": "<p>School where admission is restricted to children affected with Leprosy:</p>",
+    "options": [
+      "School for defective children",
+      "School for special education",
+      "Leper Schools",
+      "Schools for handicapped"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 8,
+    "question": "<p>Secondary schools providing the four year course shall be known as:</p>",
+    "options": [
+      "high schools",
+      "training schools",
+      "higher secondary school",
+      "upper primary and senior basic school"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 9,
+    "question": "<p>Secondary schools providing the three year course shall be known as</p>",
+    "options": [
+      "Training schools",
+      "Basic schools",
+      "High schools",
+      "Higher Secondary Schools"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 10,
+    "question": "<p>Schools for special Education comprises</p>",
+    "options": [
+      "Fine arts schools",
+      "Leper schools",
+      "Secondary schools",
+      "None of the above"
+    ],
+    "correct_answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 11,
+    "question": "<p>The Training Schools providing instructions and training for Teachers Certificate Examination comes under the group of :</p>",
+    "options": [
+      "Schools for special Education",
+      "Schools for General Education",
+      "Schools for education of particular categories of students",
+      "None of the above"
+    ],
+    "correct_answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 12,
+    "question": "<p>One among the following is not a \"School for Special Education\". Quote it.</p>",
+    "options": [
+      "Fine arts college",
+      "Fishery school",
+      "Physical Training school",
+      "Leper school"
+    ],
+    "correct_answer": "D",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 13,
+    "question": "<p>Which one of the following is a school for special education?</p>",
+    "options": [
+      "School for the Blind",
+      "Navodaya Vidyalaya",
+      "Model Residential School",
+      "Fishery School"
+    ],
+    "correct_answer": "D",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 14,
+    "question": "<p>School that is not meant for special education:</p>",
+    "options": [
+      "Fishery Schools",
+      "Music Schools",
+      "Fine Arts Schools",
+      "School for the Blind"
+    ],
+    "correct_answer": "D",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 15,
+    "question": "<p>School that is not comes under school for special education:</p>",
+    "options": [
+      "Music school",
+      "Physical training school",
+      "Training School",
+      "School for the mentally handicapped"
+    ],
+    "correct_answer": "D",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 16,
+    "question": "<p>One among the following group will not come under the definition of schools for Special Education:</p>",
+    "options": [
+      "Fishery Schools",
+      "Physical Training Schools",
+      "Deputy Director",
+      "Deaf and Blind Schools"
+    ],
+    "correct_answer": "D",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 17,
+    "question": "<p>One of the following group of schools does not come under the category of 'schools for Special Education'. Find out it:</p>",
+    "options": [
+      "Fishery Schools",
+      "Physical Training schools",
+      "Blind Schools",
+      "Fine Arts schools"
+    ],
+    "correct_answer": "C",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 18,
+    "question": "<p>Fishery schools come under the schools for:</p>",
+    "options": [
+      "Special Education",
+      "General Education",
+      "Other institutions",
+      "Schools for the handicapped"
+    ],
+    "correct_answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 19,
+    "question": "<p>Which among the following is not a school for the education of particular categories of students?</p>",
+    "options": [
+      "School for the handicapped",
+      "School for defective childrens",
+      "Leper schools",
+      "Physical Training schools"
+    ],
+    "correct_answer": "D",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 20,
+    "question": "<p>Which among the following comes under schools for the education of particular categories of students?</p>",
+    "options": [
+      "Leper schools",
+      "Fishing schools",
+      "Music schools",
+      "Fine arts schools"
+    ],
+    "correct_answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 21,
+    "question": "<p>Schools where admission is restricted to children, affected with polio:</p>",
+    "options": [
+      "Schools for defective children",
+      "Schools for handicapped",
+      "Training schools",
+      "Physical training schools"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 22,
+    "question": "<p>One among the following is not coming under 'Other Institutions' Quote it.</p>",
+    "options": [
+      "NCC",
+      "Student Police Cadet",
+      "ACC",
+      "Bharat Scouts and Guides"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 23,
+    "question": "<p>Other institutions connected with the educational and system of the state are</p>",
+    "options": [
+      "SSA, SCERT",
+      "(i) The Bharat Scouts and Guides (ii) NCC etc.",
+      "Special schools and schools for the education of particular categories of students",
+      "Literacy Mission and SCERT"
+    ],
+    "correct_answer": "B",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 24,
+    "question": "<p>Schools where admission to some or all of the standard is restricted to girls shall be known as :</p>",
+    "options": [
+      "Girls schools",
+      "Fine arts schools",
+      "Music schools",
+      "Fishery schools"
+    ],
+    "correct_answer": "A",
+    "type": "MCQ"
+  },
+  {
+    "SI.No": 25,
+    "question": "<p>A list of all schools both Govt. Private shall be published by the</p>",
+    "options": [
+      "by the department of education",
+      "by the Govt. annually",
+      "by the concerned Dy. Directors of Edn",
+      "by the Zilla Panchayat"
+    ],
+    "correct_answer": "A",
+    "type": "MCQ"
+  }
+]

@@ -102,12 +102,12 @@
 </head>
 <body>
   <form action="/upload" method="post" enctype="multipart/form-data">
-    <h1>Upload PDF for MCQ Extraction</h1>
+    <h1>Upload PDF or DOCX for MCQ Extraction</h1>
 
-    <input type="file" id="fileInput" name="file" accept="application/pdf" required />
+    <input type="file" id="fileInput" name="file" accept="application/pdf,.docx,application/vnd.openxmlformats-officedocument.wordprocessingml.document" required />
 
     <label for="fileInput" class="upload-label" id="uploadLabel">
-      <span id="uploadText">Click to upload PDF</span>
+      <span id="uploadText">Click to upload PDF or DOCX</span>
       <div class="file-name" id="fileName"></div>
     </label>
 
@@ -134,7 +134,7 @@
       } else {
         // Reset to default if file is deselected
         uploadIcon.innerHTML = `<path d="M5 20h14v-2H5v2zm7-18l-6 6h4v6h4v-6h4l-6-6z"/>`;
-        uploadText.textContent = "Click to upload PDF";
+        uploadText.textContent = "Click to upload PDF or DOCX";
         fileName.textContent = "";
       }
     });

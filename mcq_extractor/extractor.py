@@ -3,6 +3,8 @@ import json
 import time
 import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
+import signal
+from concurrent.futures import ThreadPoolExecutor, TimeoutError
 
 class MCQExtractor:
     def __init__(self, api_key):
@@ -16,7 +18,7 @@ class MCQExtractor:
                 HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
             },
             generation_config={
-                "response_mime_type": "application/json",
+                "response_mime_type": "application/json"
             }
         )
 
@@ -26,7 +28,7 @@ class MCQExtractor:
         print(f"Completed upload: {pdf_file.uri}")
         return pdf_file
 
-    def extract_mcqs_from_pages(self, pdf_file, start_page, end_page, custom_prompt, questions_to_ignore, attempt=0):
+    def extract_mcqs_from_pages(self, pdf_file, start_page, end_page, custom_prompt, questions_to_ignore, attempt=0, max_attempts=2):
 
         prompt = f"""
         You are an MCQ extractor.
@@ -93,10 +95,26 @@ class MCQExtractor:
          
         print(f"Sending request to Gemini API for pages {start_page}-{end_page}...")
         try:
-            response = self.model.generate_content([prompt, pdf_file])
+            # Use timeout for API calls
+            with ThreadPoolExecutor(max_workers=1) as executor:
+                future = executor.submit(self.model.generate_content, [prompt, pdf_file])
+                try:
+                    response = future.result(timeout=120)  # 2 minute timeout for each API call
+                except TimeoutError:
+                    print(f"❌ API timeout after 120 seconds for pages {start_page}-{end_page}")
+                    return []
             print("\n\t\tResponse received from Gemini API.\n")
             print(response)
             print("\n\t\tResponse end from Gemini API.\n")
+            
+            # Check if response has content parts
+            if not response.candidates or not response.candidates[0].content.parts:
+                print(f"Empty response received. Finish reason: {response.candidates[0].finish_reason if response.candidates else 'Unknown'}")
+                if attempt < max_attempts - 1:
+                    print(f"Retrying API call after empty response. Attempt {attempt + 2}/{max_attempts}")
+                    return self.extract_mcqs_from_pages(pdf_file, start_page, end_page, custom_prompt, questions_to_ignore, attempt + 1, max_attempts)
+                return []
+            
             raw_json_string = response.text.strip()
 
             # Strip markdown fences if they exist
@@ -111,9 +129,9 @@ class MCQExtractor:
                 return parsed_json
             except json.JSONDecodeError as e:
                 print(f"JSON parsing error: {e}")
-                if attempt < 1:
-                    print("Retrying API call after parsing error.")
-                    return self.extract_mcqs_from_pages(pdf_file, start_page, end_page, custom_prompt, questions_to_ignore, 1)
+                if attempt < max_attempts - 1:
+                    print(f"Retrying API call after parsing error. Attempt {attempt + 2}/{max_attempts}")
+                    return self.extract_mcqs_from_pages(pdf_file, start_page, end_page, custom_prompt, questions_to_ignore, attempt + 1, max_attempts)
 
 
                 return []
